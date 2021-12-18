@@ -1,10 +1,10 @@
-# entrega-grupal
+## entrega-grupal
 
 Enlaces de nuestros perfiles: @carmenm02(https://github.com/carmenm02) y @alexlomu(https://github.com/alexlomu)
 
 Enlace de nuestro repositorio: https://github.com/carmenm02/entrega-grupal.git
 
-EJERCICIO 1:
+# EJERCICIO 1:
 
 El ejercicio consiste en sumar los elementos de una matriz y obtener la suma de estos con numeros enteros.
 
@@ -42,7 +42,7 @@ El figma que hemos usado es:
 
 
 
-EJERCICIO 2:
+# EJERCICIO 2:
 
 El ejercicio consiste en que dos personas van a comparar sus calificaciones y se calculará quien de las dos ha obtenido la mayor calificación:
 
@@ -150,7 +150,7 @@ El figma que hemos usado es:
 
 
 
-EJERCICIO 3:
+# EJERCICIO 3:
 
 El ejercicio consiste en sumar los elementos de una matriz y obtener la suma de estos con numeros enteros teniendo en cuenta que pueden ser muy grandes.
 
@@ -184,9 +184,9 @@ El figma que hemos usado es:
 ![figma_3](https://user-images.githubusercontent.com/91721507/146652936-43a886fe-b26a-4674-9c48-5a430ad10574.JPG)
 
 
-EJERCICIO 4:
+# EJERCICIO 4:
 
-El programa crea una escalera compuesta por * de la cual podemos elegir su tamaño.
+El programa crea una escalera compuesta por # de la cual podemos elegir su tamaño.
 
 El codigo que hemos usado es:
 
@@ -206,7 +206,7 @@ El figma que hemos usado es:
 
 <img width="742" alt="figma 4" src="https://user-images.githubusercontent.com/91721886/146652484-3bae591d-4981-4987-bf96-3e56fdc871e1.png">
 
-EJERCICIO 5:
+# EJERCICIO 5:
 
 El juego consiste en que dos jugadores van eliminando piedras de una cantidad inicial hasta que uno de ellos gana.
 
@@ -359,7 +359,7 @@ El figma que hemos usado es:
 ![figma_5](https://user-images.githubusercontent.com/91721507/146652943-e9e89dbc-683d-4237-b104-fc4e5231be08.JPG)
 
 
-EJERCICIO 6:
+# EJERCICIO 6:
 
 El ejercicio consiste en crear un laberinto y calcular la probabilidad de que la rana salga de el.
 
@@ -482,7 +482,7 @@ El figma que hemos usado es:
 
 
 
-EJERCICIO 7:
+# EJERCICIO 7:
 
 El ejercicio consiste en introducir una serie de calificaciones y segun si este valor esta comprendido entre ciertos valores los redondea o no.
 
@@ -529,7 +529,7 @@ El figma que hemos usado es:
 ![figma_7](https://user-images.githubusercontent.com/91721507/146652948-41c7fceb-570f-48ca-a4ac-646360b1d280.PNG)
 
 
-EJERCICIO 8:
+# EJERCICIO 8:
 
 El ejercicio consiste en introducir la posición de un manzano, un naranjo y una casa. Segun donde esten situados,el numero de naranjas y manzanas que caen y la distancia a la que estas caen nos indica cuales caen en la casa.
 
