@@ -1,6 +1,6 @@
 ## entrega-grupal
 
-Enlaces de nuestros perfiles: @carmenm02(https://github.com/carmenm02) y @alexlomu(https://github.com/alexlomu)
+Enlaces de nuestros perfiles: [@carmenm02](https://github.com/carmenm0) y [@alexlomu](https://github.com/alexlomu)
 
 Enlace de nuestro repositorio: https://github.com/carmenm02/entrega-grupal.git
 
