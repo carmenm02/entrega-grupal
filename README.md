@@ -1,6 +1,6 @@
 # entrega-grupal
 
-Enlaces de nuestros perfiles: @carmenm02 y @alexlomu
+Enlaces de nuestros perfiles: @carmenm02(https://github.com/carmenm02) y @alexlomu(https://github.com/alexlomu)
 
 Enlace de nuestro repositorio: https://github.com/carmenm02/entrega-grupal.git
 
@@ -37,6 +37,7 @@ El figma que hemos usado es:
 
 
 
+![figma_1](https://user-images.githubusercontent.com/91721507/146652932-5568350e-cc72-40f2-97c0-43711ccec032.JPG)
 
 
 
@@ -180,6 +181,7 @@ aVeryBigSum()
 El figma que hemos usado es:
 
 
+![figma_3](https://user-images.githubusercontent.com/91721507/146652936-43a886fe-b26a-4674-9c48-5a430ad10574.JPG)
 
 
 EJERCICIO 4:
@@ -354,6 +356,7 @@ gameOfStones()
 El figma que hemos usado es:
 
 
+![figma_5](https://user-images.githubusercontent.com/91721507/146652943-e9e89dbc-683d-4237-b104-fc4e5231be08.JPG)
 
 
 EJERCICIO 6:
@@ -475,6 +478,7 @@ while (mapa[y])[x] != "X":
         
 El figma que hemos usado es:
 
+![figma_6](https://user-images.githubusercontent.com/91721507/146652946-a23c4efd-a2a5-4aa8-9de6-ae04652631b6.PNG)
 
 
 
@@ -522,6 +526,7 @@ nuevas_notas()
 
 El figma que hemos usado es:
 
+![figma_7](https://user-images.githubusercontent.com/91721507/146652948-41c7fceb-570f-48ca-a4ac-646360b1d280.PNG)
 
 
 EJERCICIO 8:
